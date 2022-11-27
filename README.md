@@ -1,2 +1,15 @@
-# Medical-Pharmacy
-About: It is based on managing medicines and information regarding doctors so that a patient can check for the availability. Tools &amp; Technologies: JAVA netbeans, MySQL, JDBC Roles &amp; Responsibilities:- ->Worked on the backend side ->Worked on creating queries for implementing basic CRUD operations : - adding user details to the database, fetching details from the db, updating details, removing any entry from the db.
+# Basic Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat accounts
+npx hardhat compile
+npx hardhat clean
+npx hardhat test
+npx hardhat node
+node scripts/sample-script.js
+npx hardhat help
+```
